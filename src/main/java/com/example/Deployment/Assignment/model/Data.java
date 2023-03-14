@@ -1,6 +1,6 @@
 package com.example.Deployment.Assignment.model;
 
-import jakarta.persistence.*;
+import javax.persistence.*;
 import lombok.AllArgsConstructor;
 import lombok.NoArgsConstructor;
 @lombok.Data
